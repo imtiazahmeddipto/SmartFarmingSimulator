@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a3271dc29f7d7b4287cc46e07afdeda, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  items:
+  - itemName: hoe
+    price: 0
+    icon: {fileID: 5792279126116690062, guid: 9cc34426db5bce049aa4a1a0c2abb71d, type: 3}
+    maxStack: 50
+  - itemName: waterbowl
+    price: 0
+    icon: {fileID: 7813044433284402359, guid: 7a5290dad38ed31429d6e7f6910a0656, type: 3}
+    maxStack: 50
+  - itemName: seeds
+    price: 1
+    icon: {fileID: 2730226739430171557, guid: 74f60f49af2f425489c70705b89585b6, type: 3}
+    maxStack: 50
+  - itemName: fartilizier
+    price: 10
+    icon: {fileID: 9014558239210482462, guid: 87b3a0a0c61f0d2488be488036950310, type: 3}
+    maxStack: 20
+  - itemName: crops
+    price: 50
+    icon: {fileID: 8054499524444007944, guid: 01f3e07946e32174d80d7bd55a9e318a, type: 3}
+    maxStack: 30
